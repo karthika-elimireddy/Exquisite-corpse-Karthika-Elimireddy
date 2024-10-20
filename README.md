@@ -35,3 +35,18 @@ Below lines helped me to build my first repo!
 11.git commit -m "Initial commit: My first portfolio website"
 
 12.git push -u origin main
+
+<br>
+<br>
+### Git and GitHub make me go like :exploding_head: <br>
+### However, I've learned so much! <br>
+For example: <br>
+
+- gh: short for GitHub
+- git branch -d <branch name> : delete the named branch
+- gh pr list : shows a list of the open pull requests
+- gh pr diff : shown the differences between the files versions
+- gh pr review --approve : approve a pull request (by the way, you cannot approve your own pull request)
+
+<br>
+
