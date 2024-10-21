@@ -50,3 +50,8 @@ For example: <br>
 
 <br>
 
+## Good to know that if you need to undo a change you can use the following:
+- git reset <file-name>
+- git checkout -- <file-name>
+- git reset --soft HEAD~1
+- git reset --hard HEAD~1
